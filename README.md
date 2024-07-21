@@ -1,2 +1,2 @@
 # next_react_foundations
-Next.js React Foundations
+[Following along with the Next.js React Foundations course](https://nextjs.org/learn/react-foundations)
